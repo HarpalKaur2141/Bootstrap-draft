@@ -1,0 +1,30 @@
+.column1{
+background-color:white;
+}
+.column2{
+    background-color: white;
+}
+.column3 {
+    background-color: white;
+}
+.row {
+    background-color: bisque;
+    font-family:  sans-serif;
+    word-spacing: 200px;
+    padding-left: 150px;
+   
+    
+}
+body {
+    background-color: rgb(189, 243, 189);
+}
+.navbar-brand {
+    position: absolute;
+}
+h4 {
+    position:relative;
+}
+.box {
+    padding-left: 250px;
+    word-spacing: 250px;
+}
